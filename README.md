@@ -13,7 +13,7 @@ Examples of my work on JavaScript
 - https://alexsell0.github.io/snake/
 
 Examples of my work on PHP
--https://alexsell0.github.io/cut_url/
+- https://alexsell0.github.io/cut_url/
 <!---
 AlexSell0/AlexSell0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
